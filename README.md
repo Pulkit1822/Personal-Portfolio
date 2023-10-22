@@ -24,11 +24,15 @@ This is the code for my personal portfolio website, built with React, Three.js, 
 
    ```sh
    npm install
-Start local dev server
+   
+3. Start local dev server
+
+    ```sh
+    npm run dev
 
 
 
-  npm run dev
+  
 Built With
 React
 Three.js
