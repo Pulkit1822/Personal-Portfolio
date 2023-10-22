@@ -37,6 +37,11 @@ This is a Metaverse portfolio website built using React, Three.js, and Tailwind 
 - [Vite](https://vitejs.dev/)
 - [Three.js](https://threejs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- [Blender](https://www.blender.org/)
+- [GSAP](https://gsap.com/)
+- [Mixamo](https://www.mixamo.com/)
+- [RPM](https://readyplayer.me/)
+- [FormSpree](https://formspree.io/)
 
 ## License 🪪
 This project is licensed under the MIT License - see the LICENSE.md file for more details.
