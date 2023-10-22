@@ -1,7 +1,3 @@
-md
-
-Copy code
-
 # Portfolio Website
 
 This is the code for my personal portfolio website, built with React, Three.js, and Vite. 
@@ -30,9 +26,7 @@ This is the code for my personal portfolio website, built with React, Three.js, 
    npm install
 Start local dev server
 
-sh
 
-Copy code
 
   npm run dev
 Built With
@@ -44,6 +38,6 @@ License
 This project is licensed under the MIT License - see the LICENSE.md file for more details.
 
 Contact
-Feel free to contact me at xyz@email.com
+Feel free to contact me at pulkitmathur.me@gmail.com
 
 Let me know if you would like me to explain or expand on any part of this README! The goal is to give an overview of the key technologies, features, and instructions on running the project locally.
