@@ -8,7 +8,7 @@ This is a Metaverse portfolio website built using React, Three.js, and Tailwind 
 - reactive 3D background created with Three.js 
 - Clean and minimalist UI design
 - Engineered the portfolio as a web-based PWA, optimizing for performance, security and
-scalability. Configured Webpack and deployed the app live on pulkitmathur.me
+scalability. Configured Webpack and deployed it live
 
 ## Features ✨
 
