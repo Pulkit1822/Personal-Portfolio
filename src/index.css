@@ -1,0 +1,154 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  width: 100vw;
+  height: 100vh;
+}
+
+body {
+  margin: 0;
+  
+}
+
+@font-face {
+  font-family: 'Calligraphy';
+  src: url('./../public/fonts/Calligraphy.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Roman';
+  src: url('./../public/fonts/Romanica.ttf') format('truetype');
+}
+
+@keyframes wave-animation {
+  0% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(15deg);
+  }
+  50% {
+    transform: rotate(0deg);
+  }
+  75% {
+    transform: rotate(-15deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+.wave-emoji {
+  display: inline-block;
+  font-size: 25px;
+  animation-name: wave-animation;
+  animation-duration: 0.85s;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.emoji-gap {
+  margin-right: 0.5rem;
+}
+
+.social-icons {
+  position: absolute;
+  top: 20px;
+  left: 2px;
+  display: flex;
+  gap: 0x;
+  margin: 20px;
+}
+
+.social-icons img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.social-icon {
+  display: inline-block;
+  margin: 10px;
+  transition: transform 0.9s inherit ;
+  animation: slide-in 0.5s forwards ease-in-out;
+}
+
+@keyframes slide-in {
+  0% {
+    opacity: 50;
+    transform: translateX(15px);
+
+  }
+  100% {
+    opacity: 50;
+    transform: translateX(0px);
+
+  }
+}
+
+.breathing {
+  animation: breathing 3s ease-in-out infinite;
+}
+
+@keyframes breathing {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.9);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.music-icon {
+  width: 44px;
+  height: 44px;
+  cursor: pointer;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 50%;
+}
+
+.music-icon.active {
+  transform: rotate(360deg);
+}
+.music-icon-container {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 10;
+}
+
+.glow-effect {
+  position: relative;
+  display: inline-block;
+}
+
+.glow-effect::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+  background: linear-gradient(45deg, #FFD700, transparent);
+  opacity: 0;
+  border-radius: 4px;
+  animation: glow-animation 2s infinite;
+}
+
+@keyframes glow-animation {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
