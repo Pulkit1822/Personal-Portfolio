@@ -7,7 +7,7 @@ This is a Metaverse portfolio website built using React, Three.js, and Tailwind 
 - Built with **React**, **Three.js**, and **Vite**
 - Reactive 3D background created with Three.js 
 - Clean and minimalist UI design
-- Engineered the portfolio as a web-based PWA, optimizing for performance, security, and scalability. Configured Webpack and deployed it live
+- Engineered the portfolio as a web-based PWA, optimizing for performance, security, and scalability. Configured Webpack and deployed it live.
 
 ## Features ✨
 
@@ -18,20 +18,6 @@ This is a Metaverse portfolio website built using React, Three.js, and Tailwind 
 - Contact form with validation
 - 3D background that reacts to cursor movement
 
-## Inspiration 🌄
-
-The design and concept of this portfolio website were inspired by the following image:
-
-![Inspiration Image](path/to/inspiration-image.jpg)
-
-## Workflow Screenshots 📷
-
-Here are some screenshots showcasing the workflow and development process of the portfolio website:
-
-![Screenshot 1](path/to/screenshot-1.jpg)
-![Screenshot 2](path/to/screenshot-2.jpg)
-![Screenshot 3](path/to/screenshot-3.jpg)
-
 ## Running Locally 🚀
 
 1. Clone this repo
@@ -40,32 +26,63 @@ Here are some screenshots showcasing the workflow and development process of the
   ```sh
   yarn install
   ```
-  
-3. Start local dev server
+
+3. Start local development server
 
    ```sh
    yarn run dev
    ```
 
+## Turn on the Music 🎵
+
+To enhance your experience while visiting my profile, I recommend turning on the music "Sunflower" by Post Malone. It will add a delightful touch to your browsing experience.
+
+![Music Icon](/path/to/music_icon.png)
+
+Tap on the music icon to turn on the music.
+
 ## Technologies Used 🛠️
 
-- [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
-- [Three.js](https://threejs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Blender](https://www.blender.org/)
-- [GSAP](https://gsap.com/)
-- [Mixamo](https://www.mixamo.com/)
-- [RPM](https://readyplayer.me/)
-- [FormSpree](https://formspree.io/)
+- [React](https://reactjs.org/) - JavaScript library for building user interfaces
+- [Vite](https://vitejs.dev/) - Fast and lightweight development server
+- [Three.js](https://threejs.org/) - JavaScript library for creating 3D graphics
+- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
+- [Blender](https://www.blender.org/) - Open-source 3D creation software
+- [GSAP](https://gsap.com/) - JavaScript animation library
+- [Mixamo](https://www.mixamo.com/) - Online 3D character animation service
+- [RPM](https://readyplayer.me/) - Avatar creation platform
+- [FormSpree](https://formspree.io/) - Form backend service for contact form
+
+## Inspiration Image 
+
+| Before | After |
+|--------|-------|
+| ![Screenshot 1](/path/to/screenshot1.png) | ![Screenshot 1](/path/to/screenshot1.png) |
+
+## What I created 
+| Screenshot |
+|------------|
+| ![Screenshot 1](/path/to/screenshot1.png) |
+
+
+## Work Screenshots 📷
+
+Here are some screenshots showcasing the work I have done:
+
+![Screenshot 1](/path/to/screenshot1.png)
+![Screenshot 2](/path/to/screenshot2.png)
+![Screenshot 3](/path/to/screenshot3.png)
 
 ## License 🪪
+
 This project is licensed under the MIT License - see the LICENSE.md file for more details.
 
 ## Deployment 📦
+
 The app is deployed on Netlify and available at: https://pulkitmathur.me/
 
 ## Contact 📨
+
 Feel free to contact me at:
 - [Portfolio](https://pulkitmathur.me/)
 - [LinkedIn](https://www.linkedin.com/in/pulkitkmathur/)
@@ -73,4 +90,4 @@ Feel free to contact me at:
 - [Instagram](https://www.instagram.com/pulkitkumarmathur/)
 - [Twitter](https://twitter.com/pulkitkmathur)
 
-Let me know if you need any further assistance or if you have any other questions!
+Let me know if you would like me to explain or expand on any part of this README! The goal is to give an overview of the key technologies, features, and instructions on running the project locally.
