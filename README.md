@@ -57,7 +57,7 @@ Tap on the music icon to turn on the music.
 
 | Before | After |
 |--------|-------|
-| ![Screenshot 1](/path/to/screenshot1.png) | ![Screenshot 1](/path/to/screenshot1.png) |
+| ![Screenshot 1](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/IMG_6118.JPG) | ![Screenshot 1](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/contact.png) |
 
 ## What I created 
 | Screenshot |
