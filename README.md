@@ -43,7 +43,7 @@ Tap on the music icon to turn on the music.
 ![Music Icon](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/music_icon.png)
 <div align="center">
 
-![Music Icon](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/spiderman.gif)
+![Music Icon](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/spiderman.gif){width=500px}
 
 </div>
 
