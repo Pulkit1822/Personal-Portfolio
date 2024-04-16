@@ -51,6 +51,18 @@ This project is licensed under the MIT License - see the LICENSE.md file for mor
 The app is deployed on Netlify and available at: https://pulkitmathur.me/
 
 ## Contact 📨
+<<<<<<< HEAD
 Feel free to contact me at pulkitmathur.me@gmail.com
+=======
+Feel free to contact me at
+<p align="center">
+  <a href="https://pulkitmathur.me/"><img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/pic.jpeg" alt="portfolio" width="43"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pulkitkmathur/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="43"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:pulkitmathur.me@gmail.com"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" width="43"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/pulkitkumarmathur/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="Instagram Logo" width="43"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/pulkitkmathur"><img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="Twitter Logo" width="43"></a>&nbsp;&nbsp;&nbsp;
+</p>
+
+>>>>>>> Pulkit1822/main
 
 Let me know if you would like me to explain or expand on any part of this README! The goal is to give an overview of the key technologies, features, and instructions on running the project locally.
