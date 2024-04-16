@@ -6,16 +6,14 @@ import { atom, useAtom } from "jotai";
 import { useEffect, useRef } from "react";
 
 export const projects = [
-<<<<<<< HEAD
   {
     title: "OS Algorithms",
     url: "https://github.com/Pulkit1822/CSE3003-Operating_System",
     image: "projects/OS.jpg",
     description: "Studied Operating Systems under Dr. J. Subhash Chandra Bose sir, completing coursework and practicals.",
   },
-=======
 
->>>>>>> Pulkit1822/main
+
   {
     title: "Portfolio",
     url: "https://pulkitmathur.me/",
@@ -23,7 +21,6 @@ export const projects = [
     description: "Made a personalized portfolio with React, Three.js, Blender, CSS. It's got my favorite tunes as a chill background.",
   },
   {
-<<<<<<< HEAD
     title: "Java & JavaFX",
     url: "https://github.com/Pulkit1822/JavaJavaFX_coursework",
     image: "projects/Java.jpg",
@@ -37,8 +34,8 @@ export const projects = [
     description: "Simplifying concerts with an elegant, unified platform for seamless experiences.",
   },
   {
-=======
->>>>>>> Pulkit1822/main
+
+
     title: "Online Judge",
     url: "https://github.com/Pulkit1822/Algo-Arena",
     image: "projects/oj.jpg",
