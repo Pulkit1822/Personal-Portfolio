@@ -38,7 +38,7 @@ This is a Metaverse portfolio website built using React, Three.js, and Tailwind 
 To enhance your experience while visiting my profile, I recommend turning on the music "Sunflower" by Post Malone. It will add a delightful touch to your browsing experience.
 Tap on the music icon to turn on the music.
 
-<span style="font-family: cursive; color: #ff00ff;">Tap on the Icon!!</span> statement
+<span style="font-family: cursive; color: #ff00ff;">Tap on the Icon!!</span> 
 
 ![Music Icon](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/music_icon.png)
 <div align="center">
