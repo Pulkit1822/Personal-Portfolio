@@ -23,9 +23,9 @@ This is a Metaverse portfolio website built using React, Three.js, and Tailwind 
 1. Clone this repo
 2. Install dependencies
 
-  ```sh
-  yarn install
-  ```
+   ```sh
+   yarn install
+   ```
 
 3. Start local development server
 
