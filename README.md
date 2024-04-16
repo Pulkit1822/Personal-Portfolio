@@ -53,16 +53,11 @@ Tap on the music icon to turn on the music.
 - [RPM](https://readyplayer.me/) - Avatar creation platform
 - [FormSpree](https://formspree.io/) - Form backend service for contact form
 
-## Inspiration Image 
+## Metaverse ✨ 
 
-| Before | After |
+| Inspiration | Result |
 |--------|-------|
 | ![Screenshot 1](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/IMG_6118.JPG) | ![Screenshot 1](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/Metaversed.png) |
-
-## What I created 
-| Screenshot |
-|------------|
-| ![Screenshot 1](/path/to/screenshot1.png) |
 
 
 ## Work Screenshots 📷
