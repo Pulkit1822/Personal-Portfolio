@@ -43,7 +43,7 @@ Tap on the music icon to turn on the music.
 ![Music Icon](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/music_icon.png)
 <div align="center">
 
-![Music Icon](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/spiderman.gif){width=500px}
+![Music Icon](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/spiderman.gif)
 
 </div>
 
@@ -90,13 +90,25 @@ This project is licensed under the MIT License - see the LICENSE.md file for mor
 
 The app is deployed on Netlify and available at: https://pulkitmathur.me/
 
-## Contact 📨
+## Contribution 🫱🏻‍🫲🏼
 
-Feel free to contact me at:
-- [Portfolio](https://pulkitmathur.me/)
-- [LinkedIn](https://www.linkedin.com/in/pulkitkmathur/)
-- [Email](mailto:pulkitmathur.me@gmail.com)
-- [Instagram](https://www.instagram.com/pulkitkumarmathur/)
-- [Twitter](https://twitter.com/pulkitkmathur)
+If you have a better solution or want to suggest improvements, feel free to open an issue or submit a pull request. Contributions are always welcome!
 
-Let me know if you would like me to explain or expand on any part of this README! The goal is to give an overview of the key technologies, features, and instructions on running the project locally.
+## Feedback 📝
+
+If you have any feedback, suggestions, or encounter any issues while using the platform, please don't hesitate to open an issue on GitHub. Your input is invaluable and helps us improve the platform for everyone.
+
+<br/>
+<p align="center">
+  <a href="https://pulkitmathur.me/"><img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/pic.jpeg" alt="portfolio" width="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pulkitkmathur/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:pulkitmathur.me@gmail.com"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/pulkitkumarmathur/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="Instagram Logo" width="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/pulkitkmathur"><img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="Twitter Logo" width="32"></a>&nbsp;&nbsp;&nbsp;
+</p>
+
+Happy learning and coding!
+
+---
+
+If you find this repository useful, don't forget to star it! ⭐️
