@@ -37,7 +37,8 @@ This is a Metaverse portfolio website built using React, Three.js, and Tailwind 
 
 To enhance your experience while visiting my profile, I recommend turning on the music "Sunflower" by Post Malone. It will add a delightful touch to your browsing experience.
 
-![Music Icon](/path/to/music_icon.png)
+![Music Icon](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/spiderman.gif)
+![Music Icon](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/music_icon.png)
 
 Tap on the music icon to turn on the music.
 
@@ -64,9 +65,14 @@ Tap on the music icon to turn on the music.
 
 Here are some screenshots showcasing the work I have done:
 
-![Screenshot 1](/path/to/screenshot1.png)
-![Screenshot 2](/path/to/screenshot2.png)
-![Screenshot 3](/path/to/screenshot3.png)
+![Screenshot 1](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/sign.png)
+![Screenshot 2](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/homepage.png)
+![Screenshot 3](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/skills.png)
+![Screenshot 3](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/skills_side.png)
+![Screenshot 3](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/projects.png)
+![Screenshot 3](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/projects_side.png)
+![Screenshot 3](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/contact.png)
+
 
 ## License 🪪
 
