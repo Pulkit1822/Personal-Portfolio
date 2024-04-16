@@ -2,11 +2,7 @@ import React from "react";
 export const Menu = (props) => {
   const { onSectionChange, menuOpened, setMenuOpened } = props;
   const handleResumeClick = () => {
-<<<<<<< HEAD
-    const googleDriveResumeLink = 'https://drive.google.com/file/d/15XFLi1VvcVRj3NHmqD7CajEwiVvaaq6e/view?usp=sharing';
-=======
-    const googleDriveResumeLink = 'https://drive.google.com/file/d/1tpMJptL4ioXb8WoWoeURyxy2XGKQekXy/view?usp=sharing';
->>>>>>> Pulkit1822/main
+    const googleDriveResumeLink = 'https://drive.google.com/file/d/1YA1Lb47GE503qvIUgMBC1POSkPnwWA58/view?usp=sharing';
     window.open(googleDriveResumeLink, '_blank');
   };
   return (
@@ -38,11 +34,7 @@ export const Menu = (props) => {
         <div className="flex-1 flex items-start justify-center flex-col gap-6 p-8">
           <MenuButton label="About" onClick={() => onSectionChange(0)} />
           <MenuButton label="Skills" onClick={() => onSectionChange(1)} />
-<<<<<<< HEAD
           <MenuButton label="Projects/Work" onClick={() => onSectionChange(2)} />
-=======
-          <MenuButton label="Projects" onClick={() => onSectionChange(2)} />
->>>>>>> Pulkit1822/main
           <MenuButton label="Resume ↗" onClick={handleResumeClick} />
           <MenuButton label="Contact" onClick={() => onSectionChange(3)} />
         </div>

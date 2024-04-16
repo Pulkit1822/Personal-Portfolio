@@ -172,11 +172,8 @@ const AboutSection = (props) => {
         <span className="font-custom" style={{ fontFamily: 'Roman', fontSize: '25px' }}>
           Pre-Final year CSE Undergrad
           <br />
-<<<<<<< HEAD
           AWS Certified Cloud Practitioner
           <br />
-=======
->>>>>>> Pulkit1822/main
           Competitive Programmer
           <br />
           Full-Stack Web Developer
