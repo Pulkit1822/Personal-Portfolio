@@ -41,9 +41,12 @@ Tap on the music icon to turn on the music.
 <span style="font-family: cursive; color: #ff00ff;">Tap on the Icon!!</span> statement
 
 ![Music Icon](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/music_icon.png)
-<center>
-![Music Icon](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/spiderman.gif){ width=300px }
-</center>
+<div align="center">
+
+![Music Icon](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/spiderman.gif)
+
+</div>
+
 
 
 
