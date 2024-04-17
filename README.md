@@ -64,7 +64,7 @@ Tap on the music icon to turn on the music.
 
 | Inspiration | Result |
 |--------|-------|
-| ![Screenshot 1](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/IMG_6118.JPG) | ![Screenshot 1](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/Metaversed.png) |
+| ![Screenshot 1](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/pic.png) | ![Screenshot 1](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/Metaversed.png) |
 
 
 ## Work Screenshots 📷
