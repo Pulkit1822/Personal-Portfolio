@@ -7,6 +7,7 @@ import codechefIcon from "/src/icons/cc.gif";
 import LinkedInIcon from "/src/icons/linkedin.gif";
 import LeetcodeIcon from "/src/icons/Leetcode.gif";
 import codeforcesIcon from "/src/icons/Codeforces.gif";
+import PinterestIcon from "/src/icons/Pinterest.gif";
 import GFGIcon from "/src/icons/GFG.gif";
 import musicIcon from "/src/icons/music.png";
 import musicFile from "/src/music/Sunflower.mp3";
@@ -143,6 +144,9 @@ const AboutSection = (props) => {
         </a>
         <a href="https://auth.geeksforgeeks.org/user/pulkitkmathur/practice/" target="_blank">
           <AnimatedIcon src={GFGIcon} alt="GeeksforGeeks" />
+        </a>
+        <a href="https://in.pinterest.com/pulkitkumarmathur/" target="_blank">
+          <AnimatedIcon src={PinterestIcon} alt="Pinterest" />
         </a>
       </div>
       <h1> 
