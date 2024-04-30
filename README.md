@@ -1,3 +1,9 @@
+### 💡 Explore Sponsorship Options
+
+To support this project, explore sponsorship options available for this repository, as every contribution counts and your support will greatly benefit its development.
+
+
+---
 # Portfolio Website 💻
 
 This is a Metaverse portfolio website built using React, Three.js, and Tailwind CSS.
