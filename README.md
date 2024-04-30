@@ -1,6 +1,6 @@
 ### 💡 Explore Sponsorship Options
 
-To support this project, explore sponsorship options available for this repository, as every contribution counts and your support will greatly benefit its development.
+To support this project, explore sponsorship options available for this repository, as every contribution counts and your support will greatly benefit its development 😊
 
 
 ---
