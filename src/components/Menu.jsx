@@ -1,10 +1,14 @@
 import React from "react";
+
 export const Menu = (props) => {
   const { onSectionChange, menuOpened, setMenuOpened } = props;
+
   const handleResumeClick = () => {
-    const googleDriveResumeLink = 'https://drive.google.com/file/d/1YA1Lb47GE503qvIUgMBC1POSkPnwWA58/view?usp=sharing';
-    window.open(googleDriveResumeLink, '_blank');
+    const googleDriveResumeLink =
+      "https://drive.google.com/file/d/1YA1Lb47GE503qvIUgMBC1POSkPnwWA58/view?usp=sharing";
+    window.open(googleDriveResumeLink, "_blank");
   };
+
   return (
     <>
       <button
@@ -32,9 +36,27 @@ export const Menu = (props) => {
       ${menuOpened ? "w-full md:w-80" : "w-0"}`}
       >
         <div className="flex-1 flex items-start justify-center flex-col gap-6 p-8">
+          {/* GitHub Sponsorship Button */}
+          <a
+            href="https://github.com/sponsors/Pulkit1822"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center rounded-lg bg-white p-4 shadow-lg"
+          >
+            <img
+              src="https://avatars.githubusercontent.com/u/97748031?v=4"
+              className="h-12 w-12  rounded-lg "
+              alt="Spo"
+            />
+            <div className="ml-4 text-indigo-600 font-bold"> Send love ♥️ </div>
+          </a>
+          {/* About Button */}
           <MenuButton label="About" onClick={() => onSectionChange(0)} />
           <MenuButton label="Skills" onClick={() => onSectionChange(1)} />
-          <MenuButton label="Projects/Work" onClick={() => onSectionChange(2)} />
+          <MenuButton
+            label="Projects/Work"
+            onClick={() => onSectionChange(2)}
+          />
           <MenuButton label="Resume ↗" onClick={handleResumeClick} />
           <MenuButton label="Contact" onClick={() => onSectionChange(3)} />
         </div>
@@ -54,4 +76,3 @@ const MenuButton = (props) => {
     </button>
   );
 };
-
