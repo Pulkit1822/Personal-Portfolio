@@ -43,7 +43,7 @@ export const Menu = (props) => {
             className="flex items-center rounded-lg bg-white p-4 shadow-lg transition-all hover:shadow-2xl hover:scale-105"
           >
             <img
-              src="./Content/dp.jpeg"
+              src="https://avatars.githubusercontent.com/u/97748031?v=4"
               className="h-12 w-12  rounded-lg  shadow-md"
               alt="Spo"
             />
