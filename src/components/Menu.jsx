@@ -40,11 +40,11 @@ export const Menu = (props) => {
             href="https://github.com/sponsors/Pulkit1822"
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center rounded-lg bg-white p-4 shadow-lg"
+            className="flex items-center rounded-lg bg-white p-4 shadow-lg transition-all hover:shadow-2xl hover:scale-105"
           >
             <img
-              src="https://avatars.githubusercontent.com/u/97748031?v=4"
-              className="h-12 w-12  rounded-lg "
+              src="./Content/dp.jpeg"
+              className="h-12 w-12  rounded-lg  shadow-md"
               alt="Spo"
             />
             <div className="ml-4 text-indigo-600 font-bold"> Send love ♥️ </div>
@@ -74,3 +74,4 @@ const MenuButton = (props) => {
     </button>
   );
 };
+
