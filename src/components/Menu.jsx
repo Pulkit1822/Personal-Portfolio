@@ -36,7 +36,6 @@ export const Menu = (props) => {
       ${menuOpened ? "w-full md:w-80" : "w-0"}`}
       >
         <div className="flex-1 flex items-start justify-center flex-col gap-6 p-8">
-          {/* GitHub Sponsorship Button */}
           <a
             href="https://github.com/sponsors/Pulkit1822"
             target="_blank"
@@ -50,7 +49,6 @@ export const Menu = (props) => {
             />
             <div className="ml-4 text-indigo-600 font-bold"> Send love ♥️ </div>
           </a>
-          {/* About Button */}
           <MenuButton label="About" onClick={() => onSectionChange(0)} />
           <MenuButton label="Skills" onClick={() => onSectionChange(1)} />
           <MenuButton
