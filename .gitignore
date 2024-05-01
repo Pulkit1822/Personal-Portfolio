@@ -1,1 +1,86 @@
-src/
+.src = src;
+    }
+    return img;
+  }
+
+  function createCanvas(width, height) {
+    var canvas = document.createElement('canvas');
+    canvas.width = width;
+    canvas.height = height;
+    return canvas;
+  }
+
+  function createImage(width, height) {
+    var img = new Image();
+    img.width = width;
+    img.height = height;
+    return img;
+  }
+
+  function createImageFromCanvas(canvas) {
+    var img = createImage(canvas.width, canvas.height);
+    img.src = canvas.toDataURL();
+    return img;
+  }
+
+  function createImageFromImage(image) {
+    var img = createImage(image.width, image.height);
+    img.src = image.src;
+    return img;
+  }
+
+  function createImageFromSrc(src) {
+    var img = createImage();
+    img.src = src;
+    return img;
+  }
+
+  function createImageFromData(data) {
+    var img = createImage();
+    img.src = data;
+    return img;
+  }
+
+  function createImageFromBlob(blob) {
+    var img = createImage();
+    img.src = URL.createObjectURL(blob);
+    return img;
+  }
+
+  function createImageFromUrl(url, callback) {
+    var img = createImage();
+    img.onload = function() {
+      callback(img);
+    };
+    img.src = url;
+  }
+
+  function createImageFromBase64(base64) {
+    var img = createImage();
+    img.src = 'data:image/png;base64,' + base64;
+    return img;
+  }
+
+  function createImageFromImageData(imageData) {
+    var canvas = createCanvas(imageData.width, imageData.height);
+    var ctx = canvas.getContext('2d');
+    ctx.putImageData(imageData, 0, 0);
+    return createImageFromCanvas(canvas);
+  }
+
+  function createImageFromVideo(video) {
+    var canvas = createCanvas(video.videoWidth, video.videoHeight);
+    var ctx = canvas.getContext('2d');
+    ctx.drawImage(video, 0, 0);
+    return createImageFromCanvas(canvas);
+  }
+
+  function createImageFromImageBitmap(imageBitmap) {
+    var img = createImage(imageBitmap.width, imageBitmap.height);
+    img.src = imageBitmap;
+    return img;
+  }
+
+  function createImageFromImageBitmapData(imageBitmapData) {
+    var canvas = createCanvas(imageBitmapData.width, imageBitmapData.height);
+    var ctx = canvas.getContext('2d');
