@@ -16,7 +16,7 @@ export const projects = [
 
   {
     title: "Portfolio",
-    url: "https://pulkitmathur.me/",
+    url: "https://github.com/Pulkit1822/Personal-Portfolio",
     image: "projects/Portfolio.jpg",
     description: "Made a personalized portfolio with React, Three.js, Blender, CSS. It's got my favorite tunes as a chill background.",
   },

@@ -45,7 +45,7 @@ export const Menu = (props) => {
             <img
               src="https://avatars.githubusercontent.com/u/97748031?v=4"
               className="h-12 w-12  rounded-lg  shadow-md"
-              alt="Spo"
+              alt="Spo"chr
             />
             <div className="ml-4 text-indigo-600 font-bold"> Send love ♥️ </div>
           </a>
