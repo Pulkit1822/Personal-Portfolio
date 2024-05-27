@@ -1,12 +1,16 @@
+# [Meta-Portfolio Website](https://github.com/Pulkit1822/Personal-Portfolio)
+
+This is a Metaverse portfolio website built using React, Three.js, and Tailwind CSS.
+
+---
+
+
 ### 💡 Explore Sponsorship Options
 
 To support this project, explore sponsorship options available for this repository, as every contribution counts and your support will greatly benefit its development 😊
 
 
 ---
-# Portfolio Website 💻
-
-This is a Metaverse portfolio website built using React, Three.js, and Tailwind CSS.
 
 ## Overview 🚀
 
@@ -98,10 +102,10 @@ The app is deployed on Netlify and available at: https://pulkitmathur.me/
 
 If you have a better solution or want to suggest improvements, feel free to open an issue or submit a pull request. Contributions are always welcome!
 
-## Feedback 📝
 
-If you have any feedback, suggestions, or encounter any issues while using the platform, please don't hesitate to open an issue on GitHub. Your input is invaluable and helps us improve the platform for everyone.
+## Feedback
 
+If you have any feedback, suggestions, or questions regarding this repository, please feel free to open an issue or contact me below on any of the platforms you prefer 😊
 <br/>
 <p align="center">
   <a href="https://pulkitmathur.me/"><img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/pic.jpeg" alt="portfolio" width="32"></a>&nbsp;&nbsp;&nbsp;
@@ -112,8 +116,11 @@ If you have any feedback, suggestions, or encounter any issues while using the p
   <a href="https://twitter.com/pulkitkmathur"><img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="Twitter Logo" width="32"></a>&nbsp;&nbsp;&nbsp;
 </p>
 
+
 Happy learning and coding!
 
 ---
 
 If you find this repository useful, don't forget to star it! ⭐️
+
+### Written by [Pulkit](https://github.com/Pulkit1822)
