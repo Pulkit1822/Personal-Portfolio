@@ -93,20 +93,11 @@ const AboutSection = (props) => {
       audio.currentTime = 0;
       setIsMusicPlaying(false);
     } else {
-      const audioElements = document.getElementsByTagName('audio');
-      for (let i = 0; i < audioElements.length; i++) {
-        const audioElement = audioElements[i];
-        if (!audioElement.paused) {
-          audioElement.pause();
-          audioElement.currentTime = 0;
-        }
-      }
-      audio.volume = 0.3;
       audio.play();
       setIsMusicPlaying(true);
     }
   };
-  
+
 
   return (
     <Section>
