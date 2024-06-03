@@ -82,13 +82,13 @@ export const MusicPlayer = () => {
   return (
     <div className="relative inline-block mt-4 pl-0 pr-12">
       <a
-        href="/musicPlayer/index.html"
+        href="https://pulkitzzplaylist.vercel.app"
         className="flex items-center rounded-lg bg-white p-4 shadow-lg transition-all hover:shadow-2xl hover:scale-105 hover:cursor-pointer"
         target="_blank"
         rel="noopener noreferrer"
       >
         <img
-          src="/Content/musicalME.png"
+          src="https://res.cloudinary.com/dsf0guzl6/image/upload/v1717436430/musicalME_urtjtn.png"
           className="h-12 w-12  rounded-lg  shadow-md"
           alt="MusicPlayer"
         />

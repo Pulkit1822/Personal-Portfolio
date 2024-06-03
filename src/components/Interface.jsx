@@ -171,7 +171,7 @@ const AboutSection = (props) => {
           <br />
           Competitive Programmer
           <br />
-          Full-Stack Web Developer
+          Full-Stack Developer
           </span>
 
       </motion.p>
@@ -476,13 +476,13 @@ const ContactSection = () => {
                 Submit
               </button>
               <a
-        href="/musicPlayer/index.html"
+        href="https://pulkitzzplaylist.vercel.app"
         className="flex items-center rounded-lg bg-white p-1 shadow-lg transition-all hover:shadow-2xl hover:scale-105 hover:cursor-pointer"
         target="_blank"
         rel="noopener noreferrer"
       >
         <img
-          src="/Content/musicalME.png"
+          src="https://res.cloudinary.com/dsf0guzl6/image/upload/v1717436430/musicalME_urtjtn.png"
           className="h-12 w-12  rounded-lg  shadow-md"
           alt="MusicPlayer"
         />
