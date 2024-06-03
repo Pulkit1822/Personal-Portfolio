@@ -82,7 +82,7 @@ export const MusicPlayer = () => {
   return (
     <div className="relative inline-block mt-4 pl-0 pr-12">
       <a
-        href="/public/musicPlayer/index.html"
+        href="/musicPlayer/index.html"
         className="flex items-center rounded-lg bg-white p-4 shadow-lg transition-all hover:shadow-2xl hover:scale-105 hover:cursor-pointer"
         target="_blank"
         rel="noopener noreferrer"
