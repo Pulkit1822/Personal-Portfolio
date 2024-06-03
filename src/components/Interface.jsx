@@ -476,7 +476,7 @@ const ContactSection = () => {
                 Submit
               </button>
               <a
-        href="/public/musicPlayer/index.html"
+        href="/musicPlayer/index.html"
         className="flex items-center rounded-lg bg-white p-1 shadow-lg transition-all hover:shadow-2xl hover:scale-105 hover:cursor-pointer"
         target="_blank"
         rel="noopener noreferrer"
