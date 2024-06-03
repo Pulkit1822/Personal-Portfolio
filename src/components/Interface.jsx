@@ -171,7 +171,7 @@ const AboutSection = (props) => {
           <br />
           Competitive Programmer
           <br />
-          Full-Stack Developer
+          Full-Stack Web Developer
           </span>
 
       </motion.p>
