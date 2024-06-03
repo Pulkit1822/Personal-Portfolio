@@ -47,8 +47,9 @@ export const Menu = (props) => {
               className="h-12 w-12  rounded-lg  shadow-md"
               alt="Spo"chr
             />
-            <div className="ml-4 text-indigo-600 font-bold"> Send love ♥️ </div>
+            <div className="ml-4 text-indigo-600 font-bold"> Sponser ♥️ </div>
           </a>
+          <MusicPlayer />
           <MenuButton label="About" onClick={() => onSectionChange(0)} />
           <MenuButton label="Skills" onClick={() => onSectionChange(1)} />
           <MenuButton
@@ -57,6 +58,8 @@ export const Menu = (props) => {
           />
           <MenuButton label="Resume ↗" onClick={handleResumeClick} />
           <MenuButton label="Contact" onClick={() => onSectionChange(3)} />
+
+          
         </div>
       </div>
     </>
@@ -72,6 +75,26 @@ const MenuButton = (props) => {
     >
       {label}
     </button>
+  );
+};
+
+export const MusicPlayer = () => {
+  return (
+    <div className="relative inline-block mt-4 pl-0 pr-12">
+      <a
+        href="/public/musicPlayer/index.html"
+        className="flex items-center rounded-lg bg-white p-4 shadow-lg transition-all hover:shadow-2xl hover:scale-105 hover:cursor-pointer"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <img
+          src="/Content/musicalME.png"
+          className="h-12 w-12  rounded-lg  shadow-md"
+          alt="MusicPlayer"
+        />
+        <div className="ml-4 text-indigo-600 font-bold"> My Playlist ↗ (Ads-Free) </div>
+      </a>
+    </div>
   );
 };
 

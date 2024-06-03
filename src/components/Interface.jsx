@@ -204,40 +204,38 @@ const skills = [
     level: 60,
   },
   {
-    title: "HTML & CSS",
-    level: 70,
+    title: "HTML, CSS, & Bootstrap",
+    level: 80, 
   },
   {
-    title: "Threejs / React Three Fiber",
-    level: 50,
+    title: "JavaScript, jQuery, & React",
+    level: 75, 
   },
   {
-    title: "JavaScript",
-    level: 45,
-  },
-  {
-    title: "Nodejs",
-    level: 30,
+    title: "Node.js, Express, & Django",
+    level: 60, 
   },
 ];
+
 const languages = [
   {
-    title: "DSA",
-    level: 80,
+    title: "Data Structures & Algorithms",
+    level: 80, 
   },
   {
-    title: "Machine Learning",
-    level: 30,
+    title: "Machine Learning & Python",
+    level: 60, 
   },
   {
-    title: "SQL",
-    level: 40,
+    title: "SQL, MongoDB, & MySQL",
+    level: 60, 
   },
   {
-    title: "Git",
-    level: 50,
+    title: "Git, AWS, & Docker",
+    level: 55, 
   },
 ];
+
 
 const SkillsSection = () => {
   return (
@@ -426,7 +424,6 @@ const ContactSection = () => {
           >
             <p>Thank you for your message. 😊😊</p> <p>I will be in touch soon regarding next steps.</p>
           </motion.p>
-
         ) : (
           <form onSubmit={handleSubmit}>
             <label for="name" className="font-medium text-gray-900 block mb-1">
@@ -471,15 +468,32 @@ const ContactSection = () => {
               className="mt-1 text-red-500"
               errors={state.errors}
             />
-            <button
-              disabled={state.submitting}
-              className="bg-indigo-600 text-white py-4 px-8 rounded-lg font-bold text-lg mt-16 "
-            >
-              Submit
-            </button>
+            <div className="flex justify-center mt-8">
+              <button
+                disabled={state.submitting}
+                className="bg-indigo-600 text-white py-4 px-8 rounded-lg font-bold text-lg mr-4 shadow-lg transition-all hover:shadow-2xl hover:scale-105"
+              >
+                Submit
+              </button>
+              <a
+        href="/public/musicPlayer/index.html"
+        className="flex items-center rounded-lg bg-white p-1 shadow-lg transition-all hover:shadow-2xl hover:scale-105 hover:cursor-pointer"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <img
+          src="/Content/musicalME.png"
+          className="h-12 w-12  rounded-lg  shadow-md"
+          alt="MusicPlayer"
+        />
+        <div className="ml-4 text-indigo-600 font-bold"> My Playlist ↗ (Ads-Free) </div>
+      </a>
+
+            </div>
           </form>
         )}
       </div>
     </Section>
   );
 };
+
