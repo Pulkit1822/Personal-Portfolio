@@ -27,6 +27,7 @@ To support this project, explore sponsorship options available for this reposito
 - Responsive design that works on mobile and desktop
 - Contact form with validation
 - 3D background that reacts to cursor movement
+- Personalized music player for ads-free experience
 
 ## Running Locally 🚀
 
@@ -43,7 +44,7 @@ To support this project, explore sponsorship options available for this reposito
    yarn run dev
    ```
 
-## Turn on the Music 🎵
+## Turn on the Music while viewing 🎵
 
 To enhance your experience while visiting my profile, I recommend turning on the music "Sunflower" by Post Malone. It will add a delightful touch to your browsing experience.
 Tap on the music icon to turn on the music.
@@ -56,6 +57,25 @@ Tap on the music icon to turn on the music.
 </div>
 
 
+## Personalised Music Player 🎵
+
+A Portfolio is something that tells us about a person. So, to know my music taste, I recommend turning on my playlist. A person's music taste tells us more about his emotional thoughts. Tap on the music player icon to view.
+
+![Music Player](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/music_icon.png)
+<div align="center">
+  ![Music Icon](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/spiderman.gif)
+</div>
+
+### Music Player Features 🎧
+
+- **Responsive Design:** The music player is fully responsive and works seamlessly on both desktop and mobile devices.
+- **Ad-Free Experience:** Enjoy uninterrupted music with no ads.
+- **Cloudinary API:** Uses Cloudinary API to store and stream music content, ensuring fast and reliable playback.
+- **Basic Controls:** Simple and intuitive controls for playing the next song, going back to the previous song, and shuffling the playlist.
+
+### Purpose of Including Music 🎼
+
+The main idea behind including music in my portfolio is to share my personal taste with viewers. This helps to create a more personal connection, allowing potential collaborators to understand me better and facilitating more effective and enjoyable collaboration.
 
 
 ## Technologies Used 🛠️
