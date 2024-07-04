@@ -52,7 +52,6 @@ Tap on the music icon to turn on the music.
 ![Music Icon](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/music_icon.png)
 <div align="center">
 
-![Music Icon](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/spiderman.gif)
 
 </div>
 
@@ -61,9 +60,11 @@ Tap on the music icon to turn on the music.
 
 A Portfolio is something that tells us about a person. So, to know my music taste, I recommend turning on my playlist. A person's music taste tells us more about his emotional thoughts. Tap on the music player icon to view.
 
-![Music Player](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/music_icon.png)
+![Music Player Location](https://github.com/Pulkit1822/Personal-Portfolio/blob/main/Content/Flow/player.png)
 <div align="center">
-  ![Music Icon](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/spiderman.gif)
+[Music Player](https://github.com/Pulkit1822/Personal-Portfolio/blob/main/Content/musicPlayer.png)
+<div align="center">
+
 </div>
 
 ### Music Player Features 🎧
