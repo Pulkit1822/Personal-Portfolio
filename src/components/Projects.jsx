@@ -34,7 +34,7 @@ export const projects = [
   {
     title: "React JS Practice",
     url: "https://pulkit1822.github.io/Ethnus-MERN-Assignment-3/",
-    image: "projects/react.js.jpg",
+    image: "projects/reactjs.jpg",
     description: "Completed 6 small React JS projects to enhance practical skills and deepen understanding.",
   },
   {
