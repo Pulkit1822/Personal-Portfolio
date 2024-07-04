@@ -89,6 +89,7 @@ The main idea behind including music in my portfolio is to share my personal tas
 - [Mixamo](https://www.mixamo.com/) - Online 3D character animation service
 - [RPM](https://readyplayer.me/) - Avatar creation platform
 - [FormSpree](https://formspree.io/) - Form backend service for contact form
+- [Clouinary API](https://cloudinary.com/) - Cloudinary service for streaming music for the playlist I downloaded
 
 ## Metaverse ✨ 
 
