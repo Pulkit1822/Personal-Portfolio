@@ -73,7 +73,7 @@ A Portfolio is something that tells us about a person. So, to know my music tast
 - **Cloudinary API:** Uses Cloudinary API to store and stream music content, ensuring fast and reliable playback.
 - **Basic Controls:** Simple and intuitive controls for playing the next song, going back to the previous song, and shuffling the playlist.
 
-### Purpose of Including Music 🎼
+### Purpose of Including Music Player 🎼
 
 The main idea behind including music in my portfolio is to share my personal taste with viewers. This helps to create a more personal connection, allowing potential collaborators to understand me better and facilitating more effective and enjoyable collaboration.
 
