@@ -82,12 +82,13 @@ Tap on the music icon to turn on the music.
 Here are some screenshots showcasing the work I have done:
 
 ![Screenshot 1](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/sign.png)
-![Screenshot 2](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/homepage.png)
-![Screenshot 3](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/skills.png)
-![Screenshot 3](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/skills_side.png)
-![Screenshot 3](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/projects.png)
-![Screenshot 3](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/projects_side.png)
-![Screenshot 3](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/contact.png)
+![Screenshot 2](https://github.com/Pulkit1822/Personal-Portfolio/blob/main/Content/Flow/Screenshot%202024-07-04%20at%209.20.59%E2%80%AFAM.png)
+![Screenshot 3](https://github.com/Pulkit1822/Personal-Portfolio/blob/main/Content/Flow/Screenshot%202024-07-04%20at%209.21.21%E2%80%AFAM.png)
+![Screenshot 4](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/skills.png)
+![Screenshot 5](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/skills_side.png)
+![Screenshot 6](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/projects.png)
+![Screenshot 7](https://github.com/Pulkit1822/Personal-Portfolio/blob/main/Content/Flow/Screenshot%202024-07-04%20at%209.20.18%E2%80%AFAM.png)
+![Screenshot 8](https://github.com/Pulkit1822/Personal-Portfolio/blob/main/Content/Flow/Screenshot%202024-07-04%20at%209.20.41%E2%80%AFAM.png)
 
 
 ## License 🪪
