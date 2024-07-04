@@ -24,6 +24,7 @@ export const projects = [
     image: "projects/Portfolio.jpg",
     description: "Made a personalized portfolio with React, Three.js, Blender, CSS. It's got my favorite tunes as a chill background.",
   },
+  
   {
     title: "Java & JavaFX",
     url: "https://github.com/Pulkit1822/JavaJavaFX_coursework",
@@ -31,11 +32,18 @@ export const projects = [
     description: "Studied Java and JavaFX under Dr. Adarsh Patel sir, completing coursework and practicals.",
   },
   {
+    title: "React JS Practice",
+    url: "https://pulkit1822.github.io/Ethnus-MERN-Assignment-3/",
+    image: "projects/react.js.jpg",
+    description: "Completed 6 small React JS projects to enhance practical skills and deepen understanding.",
+  },
+  {
     title: "OS Algorithms",
     url: "https://github.com/Pulkit1822/CSE3003-Operating_System",
     image: "projects/OS.jpg",
     description: "Studied Operating Systems under Dr. J. Subhash Chandra Bose sir, completing coursework and practicals.",
   },
+  
   
   {
     title: "Pothole DS",
