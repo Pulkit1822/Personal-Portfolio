@@ -7,13 +7,17 @@ import { useEffect, useRef } from "react";
 
 export const projects = [
   {
-    title: "OS Algorithms",
-    url: "https://github.com/Pulkit1822/CSE3003-Operating_System",
-    image: "projects/OS.jpg",
-    description: "Studied Operating Systems under Dr. J. Subhash Chandra Bose sir, completing coursework and practicals.",
+    title: "Univibes",
+    url: "https://github.com/Pulkit1822/Univibes",
+    image: "projects/univibes.jpg",
+    description: "Developed a responsive university event management application with CRUD operations and OD permissions support.",
   },
-
-
+  {
+    title: "Online Judge",
+    url: "https://github.com/Pulkit1822/Algo-Arena",
+    image: "projects/oj.jpg",
+    description: "Made a Django & Python project that checks code & test cases!",
+  },
   {
     title: "Portfolio",
     url: "https://github.com/Pulkit1822/Personal-Portfolio",
@@ -26,26 +30,24 @@ export const projects = [
     image: "projects/Java.jpg",
     description: "Studied Java and JavaFX under Dr. Adarsh Patel sir, completing coursework and practicals.",
   },
+  {
+    title: "OS Algorithms",
+    url: "https://github.com/Pulkit1822/CSE3003-Operating_System",
+    image: "projects/OS.jpg",
+    description: "Studied Operating Systems under Dr. J. Subhash Chandra Bose sir, completing coursework and practicals.",
+  },
   
-  {
-    title: "Harmony Events",
-    url: "https://github.com/Pulkit1822/Harmony-Events",
-    image: "projects/HE.png",
-    description: "Simplifying concerts with an elegant, unified platform for seamless experiences.",
-  },
-  {
-
-
-    title: "Online Judge",
-    url: "https://github.com/Pulkit1822/Algo-Arena",
-    image: "projects/oj.jpg",
-    description: "Made a Django & Python project that checks code & test cases!",
-  },
   {
     title: "Pothole DS",
     url: "https://github.com/Pulkit1822/Pothole-Detection-System",
     image: "projects/pothole.jpg",
     description: "Made extensive analysis of pothole detection models, identifying top performer.",
+  },
+  {
+    title: "Harmony Events",
+    url: "https://github.com/Pulkit1822/Harmony-Events",
+    image: "projects/HE.png",
+    description: "Simplifying concerts with an elegant, unified platform for seamless experiences.",
   },
   {
     title: "Ticklus",
@@ -106,7 +108,7 @@ const Project = (props) => {
   );
 };
 
-export const currentProjectAtom = atom(Math.floor(projects.length / 2));
+export const currentProjectAtom = atom(0);
 
 export const Projects = () => {
   const { viewport } = useThree();
