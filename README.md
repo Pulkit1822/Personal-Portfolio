@@ -99,7 +99,6 @@ The main idea behind including music in my portfolio is to share my personal tas
 
 
 ## Work Screenshots 📷
-
 Here are some screenshots showcasing the work I have done:
 
 ![Screenshot 1](https://github.com/Pulkit1822/Personal_Portfolio/blob/main/Content/sign.png)
