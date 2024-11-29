@@ -5,7 +5,7 @@ export const Menu = (props) => {
 
   const handleResumeClick = () => {
     const googleDriveResumeLink =
-      "https://drive.google.com/file/d/1R3QLDSh3TvOvyaaVdlvMJciobJXdVh7a/view?usp=sharing";
+      "https://drive.google.com/file/d/1u_nxYeAt9nDr6AmbvDpeGUr-U9fCFXJM/view?usp=sharing";
     window.open(googleDriveResumeLink, "_blank");
   };
 
@@ -13,7 +13,7 @@ export const Menu = (props) => {
     <>
       <button
         onClick={() => setMenuOpened(!menuOpened)}
-        className="z-20 fixed top-4 right-4 md:top-12 md:right-12 p-3 bg-indigo-600 w-11 h-11 rounded-md"
+        className="z-20 fixed top-4 right-3 md:top-12 md:right-5 p-3 bg-customIndigo w-11 h-11 rounded-md"
       >
         <div
           className={`bg-white h-0.5 rounded-md w-full transition-all ${
@@ -47,7 +47,7 @@ export const Menu = (props) => {
               className="h-12 w-12  rounded-lg  shadow-md"
               alt="Spo"chr
             />
-            <div className="ml-4 text-indigo-600 font-bold"> Sponser ♥️ </div>
+            <div className="ml-4 text-customIndigo font-bold"> Sponser ♥️ </div>
           </a>
           <MusicPlayer />
           <MenuButton label="About" onClick={() => onSectionChange(0)} />
@@ -71,7 +71,7 @@ const MenuButton = (props) => {
   return (
     <button
       onClick={onClick}
-      className="text-2xl font-bold cursor-pointer hover:text-indigo-600 transition-colors"
+      className="text-2xl font-bold cursor-pointer hover:text-customIndigo transition-colors"
     >
       {label}
     </button>
@@ -92,7 +92,7 @@ export const MusicPlayer = () => {
           className="h-12 w-12  rounded-lg  shadow-md"
           alt="MusicPlayer"
         />
-        <div className="ml-4 text-indigo-600 font-bold"> My Playlist ↗ (Ads-Free) </div>
+        <div className="ml-4 text-customIndigo font-bold"> My Playlist ↗ (Ads-Free) </div>
       </a>
     </div>
   );

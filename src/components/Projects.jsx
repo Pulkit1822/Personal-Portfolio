@@ -19,11 +19,25 @@ export const projects = [
     description: "Made a Django & Python project that checks code & test cases!",
   },
   {
+    title: "Big-O Analyzer",
+    url: "https://github.com/Pulkit1822/Big-O",
+    image: "projects/bigo.png",
+    description: "Engineered a web tool to evaluate code time complexity, displaying results in Big-O notation.",
+  },
+  {
+    title: "5x5 Chess",
+    url: "https://github.com/Pulkit1822/5x5-Advance-Chess",
+    image: "projects/chess.png",
+    description: "Developed an Advanced Chess Game with real-time communication using WebSockets for web-based interface.  ",
+  },
+  
+  {
     title: "Portfolio",
     url: "https://github.com/Pulkit1822/Personal-Portfolio",
     image: "projects/Portfolio.jpg",
     description: "Made a personalized portfolio with React, Three.js, Blender, CSS. It's got my favorite tunes as a chill background.",
   },
+  
   
   {
     title: "Java & JavaFX",
@@ -129,11 +143,12 @@ export const Projects = () => {
           key={"project_" + index}
           position={[index * 2.5, 0, -3]}
           animate={{
-            x: 0 + (index - currentProject) * 2.5,
-            y: currentProject === index ? 0 : -0.1,
-            z: currentProject === index ? -2 : -3,
+            x: 0 + (index - currentProject) * 2.2,
+            y: currentProject === index ? 1 : -0.1,
+            z: currentProject === index ? -1 : -9,
             rotateX: currentProject === index ? 0 : -Math.PI / 3,
             rotateZ: currentProject === index ? 0 : -0.1 * Math.PI,
+            scale: currentProject === index ? 1.6 : 0.7,
           }}
         >
           <Project project={project} highlighted={index === currentProject} />
