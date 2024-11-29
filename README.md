@@ -1,11 +1,19 @@
-# [Meta-Portfolio Website](https://github.com/Pulkit1822/Personal-Portfolio)
+<p align="center">
+  <a href="https://github.com/Pulkit1822/Personal-Portfolio">
+    <img src="https://github.com/Pulkit1822/Personal-Portfolio/blob/main/public/projects/Portfolio.jpg" height="128">
+  </a>
+  <h1 align="center">Metaverse Portfolio</h1>
+</p>
+
+
+## Overview
 
 This is a Metaverse portfolio website built using React, Three.js, and Tailwind CSS.
 
 ---
 
 
-### 💡 Explore Sponsorship Options
+### Explore Sponsorship Options 💡
 
 To support this project, explore sponsorship options available for this repository, as every contribution counts and your support will greatly benefit its development 😊
 
@@ -117,11 +125,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for mor
 
 ## Deployment 📦
 
-<<<<<<< HEAD
-The app is deployed on Netlify and available at: https://pulkitmathur.tech/
-=======
 The app is deployed on Netlify and available at: [pulkitmathur.tech](https://pulkitmathur.tech/)
->>>>>>> Pulkit1822/main
 
 ## Contribution 🫱🏻‍🫲🏼
 
