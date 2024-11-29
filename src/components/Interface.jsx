@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import { useState } from "react";
+import { useEffect } from "react";
 import { useAtom } from "jotai";
 import { currentProjectAtom, projects } from "./Projects";
 import githubIcon from "/src/icons/gh.gif";
@@ -85,19 +86,25 @@ export const Interface = (props) => {
 const AboutSection = (props) => {
   const { setSection } = props;
   const [isMusicPlaying, setIsMusicPlaying] = useState(false);
-  const audio = new Audio(musicFile);
+  const [audio] = useState(new Audio(musicFile));
+
+  useEffect(() => {
+    return () => {
+      audio.pause();
+      audio.currentTime = 0;
+    };
+  }, [audio]);
 
   const toggleMusic = () => {
     if (isMusicPlaying) {
-      audio.pause();
-      audio.currentTime = 0;
+      audio.volume = 0;
       setIsMusicPlaying(false);
     } else {
+      audio.volume = 1;
       audio.play();
       setIsMusicPlaying(true);
     }
   };
-
 
   return (
     <Section>
@@ -115,7 +122,6 @@ const AboutSection = (props) => {
             opacity: isMusicPlaying ? 1 : 0.5,
           }}
         />
-        
       </div>
       <div className="social-icons">
         <a href="https://www.linkedin.com/in/pulkitkmathur/" target="_blank">
@@ -165,7 +171,7 @@ const AboutSection = (props) => {
         }}
       >
         <span className="font-custom" style={{ fontFamily: 'Roman', fontSize: '25px' }}>
-          Pre-Final year CSE Undergrad
+          Final year CSE Undergrad
           <br />
           AWS Certified Cloud Practitioner
           <br />
@@ -403,7 +409,7 @@ function ContactForm() {
 };
 
 const ContactSection = () => {
-  const [state, handleSubmit] = useForm("use your form id");
+  const [state, handleSubmit] = useForm("your-form-id");
   return (
     <Section>
       <h2 className="text-3xl md:text-5xl font-bold">Contact me</h2>

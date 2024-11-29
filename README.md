@@ -117,7 +117,11 @@ This project is licensed under the MIT License - see the LICENSE.md file for mor
 
 ## Deployment 📦
 
+<<<<<<< HEAD
+The app is deployed on Netlify and available at: https://pulkitmathur.tech/
+=======
 The app is deployed on Netlify and available at: [pulkitmathur.tech](https://pulkitmathur.tech/)
+>>>>>>> Pulkit1822/main
 
 ## Contribution 🫱🏻‍🫲🏼
 
